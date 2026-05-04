@@ -1,16 +1,18 @@
-## Hi there 👋
+# Abror Urazaliev — Backend Developer
 
-<!--
-**Abror-150/Abror-150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NestJS • PostgreSQL • Prisma • Docker • JWT
 
-Here are some ideas to get you started:
+## Loyihalar
+| Loyiha | Tavsif | Stack |
+|--------|--------|-------|
+| [MyWorker](https://github.com/Abror-150/MyWorker) | Usta va mijozlarni bog'lovchi platforma | NestJS, Prisma, Docker |
+| [Nasiya Savdo](https://github.com/Abror-150/nasiya-savdo) | Qarz va to'lov boshqaruvi tizimi | NestJS, Prisma, JWT |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Men haqimda
+- Backend development bo'yicha 6+ oy real loyiha tajribasi
+- NestJS, PostgreSQL, Docker — amalda ishlatganman
+- To'lov logikasi, auth tizimi, role-based access — o'zim yozganman
+
+## Bog'lanish
+📧 urazalievv.abror@gmail.com  
+📱 Telegram: @Urazalievv
