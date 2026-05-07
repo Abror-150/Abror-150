@@ -9,7 +9,7 @@ NestJS • PostgreSQL • Prisma • Docker • JWT
 | [Nasiya Savdo](https://github.com/Abror-150/nasiya-savdo) | Qarz va to'lov boshqaruvi tizimi | NestJS, Prisma, JWT |
 
 ## Men haqimda
-- Backend development bo'yicha 6+ oy real loyiha tajribasi
+- Backend development bo'yicha 8+ oy real loyiha tajribasi
 - NestJS, PostgreSQL, Docker — amalda ishlatganman
 - To'lov logikasi, auth tizimi, role-based access — o'zim yozganman
 
